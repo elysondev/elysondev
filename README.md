@@ -8,7 +8,7 @@
 
 ---
 
-# 👋 OLÁ, EU SOU ELYSON VICTOR!
+# 👋 OLÁ, EU SOU ELYSON CORREA!
 
 ### 🇧🇷 Sobre mim
 
@@ -26,7 +26,7 @@ Sou apaixonado por tecnologia, resolução de problemas e criação de soluçõe
 
 ---
 
-# 👋 HELLO, I'M ELYSON VICTOR!
+# 👋 HELLO, I'M ELYSON CORREA!
 
 ### 🇺🇸 About Me
 
@@ -106,7 +106,7 @@ I'm passionate about technology, problem-solving, and building efficient digital
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/elysonvictor_">
+<a href="https://instagram.com/aevicttor">
 <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
